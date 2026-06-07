@@ -36,11 +36,11 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 
 ### 📈 Statistics & Top Languages
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight&show_icons=true" alt="Chitra's GitHub Stats" />
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight&v=1" alt="Chitra's GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nanjundachitra100-del&theme=tokyonight&layout=compact" alt="Chitra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&theme=tokyonight&layout=compact&v=1" alt="Chitra's Top Languages" />
 </p>
 
 ---
@@ -51,5 +51,5 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-dynamic?style=flat-square&color=blue&label=Profile%20Views" alt="Views" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
 </p>

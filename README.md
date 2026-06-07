@@ -4,7 +4,7 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 ---
 
 ### 🚀 Quick Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chitrashree%20Gowda) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanjundachitra100@gmail.com) [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Nanjunda%20Chitra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chitrashree-gowda-74a9b236b) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanjundachitra100@gmail.com) [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Nanjunda%20Chitra)
 
 ---
 
@@ -40,9 +40,8 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 </p>
 
 ### 💻 Weekly Contribution Graph
-### 🐍 My Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Chitra's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" alt="Chitra's Activity Graph" />
 </p>
 
 ---

@@ -34,13 +34,14 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 
 ## 📊 GitHub Analytics
 
-### 📈 Statistics & Top Languages
+### 📈 Profile Statistics
 <p align="left">
   <img src="https://github-readme-profile-alpha.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight" alt="Chitra's GitHub Stats" />
 </p>
 
+### 💻 Weekly Contribution Graph
 <p align="left">
-  <img src="https://github-readme-profile-alpha.vercel.app/api/top-langs/?username=nanjundachitra100-del&theme=tokyonight&layout=compact" alt="Chitra's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" alt="Chitra's Activity Graph" />
 </p>
 
 ---

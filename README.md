@@ -40,8 +40,9 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 </p>
 
 ### 💻 Weekly Contribution Graph
+### 🐍 My Contribution Graph
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" alt="Chitra's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Chitra's Activity Graph" />
 </p>
 
 ---

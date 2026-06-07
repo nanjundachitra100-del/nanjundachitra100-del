@@ -35,12 +35,13 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 ## 📊 GitHub Analytics
 
 ### 📈 Statistics & Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight&show_icons=true" alt="Chitra's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&theme=tokyonight&hide_border=true&layout=compact)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nanjundachitra100-del&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nanjundachitra100-del&theme=tokyonight&layout=compact" alt="Chitra's Top Languages" />
+</p>
 
 ---
 
@@ -50,5 +51,5 @@ Hi, I'm Chitra 👋 <br>🎓 **B.Tech CSIT student at REVA University** <br>🌱
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nanjundachitra100-del&icon=2&color=5" alt="Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-dynamic?style=flat-square&color=blue&label=Profile%20Views" alt="Views" />
 </p>

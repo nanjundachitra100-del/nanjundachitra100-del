@@ -35,22 +35,22 @@ Hi, I'm **Chitra** 👋
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
 <br><b>Python</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
 <br><b>C</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
 <br><b>HTML5</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
 <br><b>CSS3</b>
 </td>
 
@@ -59,22 +59,22 @@ Hi, I'm **Chitra** 👋
 <tr>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30"/>
 <br><b>Flask</b>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
 <br><b>SQL</b>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
 <br><b>Git</b>
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 <br><b>GitHub</b>
 </td>
 
@@ -123,32 +123,4 @@ Hi, I'm **Chitra** 👋
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" />
 </p>
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nanjundachitra100-del&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 💡 Quote
-
-> *"The best way to learn programming is by building projects, solving problems, and staying curious."*
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=nanjundachitra100-del&style=for-the-badge)
-
-⭐ **Thanks for visiting my profile! Happy Coding!** ⭐
-
-</p>

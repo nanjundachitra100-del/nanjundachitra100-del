@@ -12,10 +12,12 @@ Hi, I'm **Chitra** 👋
 - Flask
 - HTML5 & CSS3
 - Web Development
+- Data Science
 
 🎯 **Goals**
 - Build full-stack web applications
 - Strengthen Data Structures & Algorithms
+- Learn Machine Learning & Data Science
 - Contribute to Open Source
 - Secure Software Development & Data Science internships
 
@@ -35,22 +37,22 @@ Hi, I'm **Chitra** 👋
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <br><b>Python</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <br><b>C</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <br><b>HTML5</b>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 <br><b>CSS3</b>
 </td>
 
@@ -58,27 +60,28 @@ Hi, I'm **Chitra** 👋
 
 <tr>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30"/>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 <br><b>Flask</b>
 </td>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <br><b>SQL</b>
 </td>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <br><b>Git</b>
 </td>
 
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <br><b>GitHub</b>
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -86,26 +89,41 @@ Hi, I'm **Chitra** 👋
 # 📚 Currently Exploring
 
 - 🌐 Flask Framework
-- 🗄️ SQL & Database Design
-- 🧩 Object-Oriented Programming
-- 📊 Data Structures & Algorithms
-- 🔗 Backend Development
+- 📊 Data Science
 - 🐍 Advanced Python Concepts
+- 🗄️ SQL & Database Design
+- 📈 Data Structures & Algorithms
+- 🔗 Backend Development
+- 🤖 Machine Learning (Beginner)
+
+---
+
+# 🎯 Focus Areas
+
+- 💻 Software Development
+- 🌐 Backend Web Development
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 📈 Data Visualization
+- 🧩 Problem Solving
+- 🌍 Open Source Contributions
 
 ---
 
 # 🚀 Projects
 
-- 📌 Python Practice Programs
+- 📌 Python Practice Repository
 - 🌐 Flask Web Applications
 - 📊 SQL Database Projects
-- 💻 Frontend Web Pages using HTML & CSS
+- 💻 Responsive Web Pages (HTML & CSS)
+- 📈 Data Science Projects *(Coming Soon)*
+- 🤖 Machine Learning Mini Projects *(Coming Soon)*
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
-### 📈 Profile Statistics
+### 📊 Profile Statistics
 
 <p align="center">
 <img src="https://github-readme-profile-alpha.vercel.app/api?username=nanjundachitra100-del&theme=tokyonight" />
@@ -123,4 +141,12 @@ Hi, I'm **Chitra** 👋
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" />
 </p>
 
+---
 
+## 💡 Quote
+
+> *"Learning one project at a time, growing one commit at a time."* 🚀
+
+---
+
+![](https://komarev.com/ghpvc/?username=nanjundachitra100-del&label=Profile%20Views&color=0e75b6&style=flat)

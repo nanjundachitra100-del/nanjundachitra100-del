@@ -138,12 +138,9 @@
 </p>
 
 ### 📈 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=tokyo-night" />
 </p>
-
----
 
 ## 💡 Quote
 

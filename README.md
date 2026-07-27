@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSIT+Student;Python+Developer;Flask+Developer;Learning+Data+Science;Future+Machine+Learning+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24&text=Hi%20👋%20I'm%20Chitra&fontAlign=50&fontAlignY=38&fontSize=55&desc=B.Tech%20CSIT%20Student%20|%20Python%20Developer&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>

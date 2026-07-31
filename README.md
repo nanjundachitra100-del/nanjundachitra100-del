@@ -54,14 +54,11 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&theme=github_dark&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&theme=github_dark" height="180"/>
 </p>
 
 ---
@@ -81,27 +78,6 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nanjundachitra100-del/nanjundachitra100-del/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-<p align="center">
-
-> **"Learning one project at a time, growing one commit at a time." 🚀**
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=nanjundachitra100-del&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>

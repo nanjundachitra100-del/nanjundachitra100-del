@@ -53,18 +53,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&theme=github_dark&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&theme=github_dark" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=nanjundachitra100-del&theme=tokyonight&hide_border=true" />
 </p>

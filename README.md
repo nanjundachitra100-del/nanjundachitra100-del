@@ -1,193 +1,125 @@
 <!-- ======================= HEADER ======================= -->
-
-<h1 align="center">Hi 👋, I'm Chitrashree</h1>
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
 <h3 align="center">
   🎓 CSIT Student at REVA University &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🤖 ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Chitrashree%20Gowda&fontSize=45&fontAlignY=35&animation=twinkling" />
+  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 <!-- ======================= INTRODUCTION ======================= -->
-
 ## 👩‍💻 About Me
 
-<table>
+<table border="0">
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-### Hello! I'm **Chitrashree** 👋
+### Hello World! I'm **Chitrashree** 👋
 
-🎓 I'm a **Computer Science & Information Technology (CSIT) student at REVA University**.
-
-💻 I enjoy programming, developing projects, and solving problems using technology.
-
-🤖 I'm particularly interested in **Machine Learning, Deep Learning, and Python development**.
-
-🧠 I am continuously improving my **Data Structures & Algorithms** and programming skills.
-
-🚀 My goal is to keep learning, build meaningful real-world projects, and grow as a software developer.
+* 🎓 **Academic Journey:** Pursuing Computer Science & Information Technology (CSIT) at **REVA University**, Bengaluru.
+* 💻 **Passions:** Crafting scalable software architectures, algorithm optimization, and technological problem-solving.
+* 🤖 **Core Focus:** Building intelligence systems utilizing **Machine Learning, Deep Learning, and Advanced Python**.
+* 🧠 **Skill Sharpening:** Daily practice focused on **Data Structures & Algorithms (DSA)** to strengthen problem-solving logic.
+* 🚀 **Mission:** Engineering meaningful, real-world applications while continuously expanding my technical horizons.
 
 </td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
+<td width="40%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
-
-<!-- ======================= EDUCATION ======================= -->
-
-## 🎓 Education
-
-### **REVA University**
-
-**Computer Science & Information Technology (CSIT)**
-
-📍 Bengaluru, India
-
----
-
-<!-- ======================= TECHNOLOGIES ======================= -->
-
-# 🛠️ Technologies & Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🧠 AI & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### 📚 Computer Science
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-008000?style=for-the-badge"/>
-</p>
-
-### 🔧 Tools & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<!-- ======================= CURRENTLY LEARNING ======================= -->
-
-## 🌱 Currently Learning
-
-```text
-🐍 Python Development
-🧠 Data Structures & Algorithms
-🤖 Machine Learning
-🧬 Deep Learning
-🌐 Web Development
-🚀 Building Real-World Projects
-```
 
 <!-- ======================= INTERESTS ======================= -->
+## 💡 Focus Areas
 
-## 💡 Areas I'm Interested In
+<p align="center">
+  <img src="https://amazonaws.com" width="22%" alt="AI"/>
+  <img src="https://amazonaws.com" width="22%" alt="ML"/>
+  <img src="https://amazonaws.com" width="22%" alt="Software Dev"/>
+  <img src="https://amazonaws.com" width="22%" alt="Web Dev"/>
+</p>
+
+<!-- ======================= TECHNOLOGIES ======================= -->
+## 🛠️ Technologies & Skills
 
 <table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-
-**Artificial Intelligence**
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Machine Learning**
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Software Development**
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**Web Development**
-
-</td>
-</tr>
+  <tr>
+    <td align="left" width="50%"><strong>💻 Languages</strong></td>
+    <td align="left" width="50%"><strong>🧠 AI & Data Science</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://shields.io"/>
+      <img src="https://shields.io"/>
+    </td>
+    <td>
+      <img src="https://shields.io"/>
+      <img src="https://shields.io"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🌐 Web Technologies</strong></td>
+    <td align="left"><strong>🔧 Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://shields.io"/>
+      <img src="https://shields.io"/>
+    </td>
+    <td>
+      <img src="https://shields.io"/>
+      <img src="https://shields.io"/>
+      <img src="https://shields.io"/>
+    </td>
+  </tr>
 </table>
 
-<!-- ======================= GITHUB ACTIVITY ======================= -->
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+## 🌱 Current Roadmap
 
-# 📊 GitHub Activity
+- 🐍 **Advanced Python:** Deepening knowledge in async structures and performance profiling.
+- 🧠 **Algorithms:** Solving complex graph theory and dynamic programming challenges.
+- 🧬 **Neural Networks:** Transitioning theoretical deep learning architectures into functional code templates.
+
+<!-- ======================= GITHUB METRICS ======================= -->
+## 📊 Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📈 GitHub Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&hide_border=true" height="170"/>
+  <img src="https://vercel.app" height="165"/>
+  <img src="https://vercel.app" height="165"/>
 </p>
 
 <!-- ======================= CONNECT ======================= -->
-
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/nanjundachitra100-del">
-<img src="https://img.shields.io/badge/GitHub-nanjundachitra100--del-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/chitrashree-gowda-74a9b236b">
-<img src="https://img.shields.io/badge/LinkedIn-Chitrashree%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nanjundachitra100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-nanjundachitra100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/nanjundachitra100-del" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chitrashree-gowda-74a9b236b" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nanjundachitra100@gmail.com">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a>
 </p>
 
 <!-- ======================= FOOTER ======================= -->
-
 <p align="center">
-
-### ✨ Learning • Building • Improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
+  <br/>
+  ✨ <i>Learning • Building • Improving</i> ✨
+  <br/>
+  <img src="https://vercel.app" width="100%"/>
 </p>

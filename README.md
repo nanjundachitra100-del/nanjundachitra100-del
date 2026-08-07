@@ -152,10 +152,16 @@
 
 <p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true" width="500"/> </a> </p>
 
-📈 My GitHub Contributions
+# 📊 GitHub Activity
 
-<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://ghchart.rshah.org/nanjundachitra100-del" alt="Chitrashree's GitHub Contribution Graph" width="800"/> </a> </p>
-<!-- ======================= CONNECT ======================= -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&bg_color=ffffff&color=333333&line=0077b5&point=24292e&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 
 # 🤝 Let's Connect
 

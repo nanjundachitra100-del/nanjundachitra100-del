@@ -75,6 +75,12 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 </p>
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&hide_border=true" width="100%"/>
+</p>
+
 
 ### ✨ "Learning, building, and improving — one project at a time."
 

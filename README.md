@@ -146,22 +146,15 @@
 </table>
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
+📊 GitHub Activity
 
-# 📊 GitHub Activity
+<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del" width="600"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true&area=true" width="100%"/>
-</p>
+<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true" width="500"/> </a> </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
+📈 My GitHub Contributions
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&hide_border=true" height="170"/>
-</p>
-
+<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://ghchart.rshah.org/nanjundachitra100-del" alt="Chitrashree's GitHub Contribution Graph" width="800"/> </a> </p>
 <!-- ======================= CONNECT ======================= -->
 
 # 🤝 Let's Connect

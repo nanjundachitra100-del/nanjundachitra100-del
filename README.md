@@ -20,15 +20,17 @@
 
 ### Hello! I'm **Chitrashree** 👋
 
-🎓 I'm a **Computer Science & Information Technology (CSIT) student at REVA University**.
+🎓 I'm a **Computer Science & Information Technology (CSIT) student at REVA University**, interested in building practical solutions with technology.
 
-💻 I enjoy programming, developing projects, and solving problems using technology.
+🐍 I'm currently working with **Python**, strengthening my programming and **Data Structures & Algorithms** skills.
 
-🤖 I'm particularly interested in **Machine Learning, Deep Learning, and Python development**.
+🤖 I'm exploring **Machine Learning and Deep Learning**, learning algorithms by implementing them and working with real datasets.
 
-🧠 I am continuously improving my **Data Structures & Algorithms** and programming skills.
+🌐 I also enjoy **Web Development** using HTML and CSS and experimenting with different tools to turn ideas into working projects.
 
-🚀 My goal is to keep learning, build meaningful real-world projects, and grow as a software developer.
+🚀 I like learning by **building projects, debugging, and trying things hands-on** rather than just studying the theory.
+
+📚 Currently, I'm focused on improving my technical skills, building a stronger project portfolio, and growing step-by-step as a developer.
 
 </td>
 

@@ -22,15 +22,6 @@
 
 🎓 I'm a **Computer Science & Information Technology (CSIT) student at REVA University**, interested in building practical solutions with technology.
 
-🐍 I'm currently working with **Python**, strengthening my programming and **Data Structures & Algorithms** skills.
-
-🤖 I'm exploring **Machine Learning and Deep Learning**, learning algorithms by implementing them and working with real datasets.
-
-🌐 I also enjoy **Web Development** using HTML and CSS and experimenting with different tools to turn ideas into working projects.
-
-🚀 I like learning by **building projects, debugging, and trying things hands-on** rather than just studying the theory.
-
-📚 Currently, I'm focused on improving my technical skills, building a stronger project portfolio, and growing step-by-step as a developer.
 
 </td>
 

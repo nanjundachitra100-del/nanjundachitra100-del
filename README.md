@@ -140,17 +140,10 @@
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=nanjundachitra100-del"
-    width="600"
-    alt="GitHub Streak"
-  />
-</p>
 # 📊 GitHub Activity
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&bg_color=ffffff&color=333333&line=0077b5&point=24292e&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"

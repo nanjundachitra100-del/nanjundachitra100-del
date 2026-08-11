@@ -139,12 +139,28 @@
 </table>
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
-📊 GitHub Activity
 
-<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del" width="600"/> </a> </p>
+# 📊 GitHub Activity
 
-<p align="center"> <a href="https://github.com/nanjundachitra100-del"> <img src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true" width="500"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/nanjundachitra100-del">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del"
+      width="600"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/nanjundachitra100-del">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true"
+      width="500"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
 # 📊 GitHub Activity
 
 <p align="center">

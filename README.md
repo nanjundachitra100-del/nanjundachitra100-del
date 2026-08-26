@@ -111,31 +111,38 @@
 </p>
 
 ---
-
-<!-- ======================= CURRENTLY LEARNING ======================= -->
-
 ## 🌱 Currently Learning
 
-```text
-🐍 Python Development
-🧠 Data Structures & Algorithms
-🤖 Machine Learning
-🧬 Deep Learning
-🗄️ Database Management Systems
-🌐 Web Development
-☕ Core Java
+🐍 Python Development  
+🧠 Data Structures & Algorithms  
+🤖 Machine Learning  
+🧬 Deep Learning  
+🗄️ Database Management Systems  
+🌐 Web Development  
+☕ Core Java  
 🚀 Building Real-World Projects
 
-📈 GitHub Activity
+---
+
+# 📈 GitHub Activity
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
-🔥 GitHub Contributions
+---
+
+# 🔥 GitHub Contributions
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del&theme=default&hide_border=true" alt="GitHub Streak" />
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
+---

@@ -125,51 +125,8 @@
 ---
 <!-- ======================= GITHUB STATS ======================= -->
 
-# 📊 GitHub Stats
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
-</p>
-
----
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</p>
-
----
-
-<!-- ======================= GITHUB STREAK ======================= -->
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=nanjundachitra100-del&hide_border=true"
-  alt="GitHub Streak"
-/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>

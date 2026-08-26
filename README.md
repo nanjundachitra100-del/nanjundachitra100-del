@@ -125,3 +125,17 @@
 🌐 Web Development
 ☕ Core Java
 🚀 Building Real-World Projects
+
+📈 GitHub Activity
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</p>
+
+🔥 GitHub Contributions
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del&theme=default&hide_border=true" alt="GitHub Streak" />
+
+</p>

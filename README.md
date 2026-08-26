@@ -123,8 +123,6 @@
 🚀 Building Real-World Projects
 
 ---
-<!-- ======================= GITHUB STATS ======================= -->
-
 <h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">

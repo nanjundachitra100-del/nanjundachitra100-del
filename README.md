@@ -123,12 +123,13 @@
 🚀 Building Real-World Projects
 
 ---
+<!-- ======================= GITHUB ACTIVITY ======================= -->
 
 # 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&bg_color=ffffff&color=24292e&line=0969da&point=24292e&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
@@ -136,13 +137,29 @@
 
 ---
 
-# 🔥 GitHub Contributions
+# 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del&theme=default&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nanjundachitra100-del&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nanjundachitra100-del&show_icons=true&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanjundachitra100-del&layout=compact&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>

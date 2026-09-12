@@ -27,9 +27,9 @@
 
 🤖 I'm interested in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**.
 
-📊 My goal is to grow as a **Data Scientist** and build intelligent, real-world solutions.
+📊 I'm currently working towards becoming a **Data Scientist**.
 
-🚀 Currently, I'm focused on improving my programming skills, exploring AI, and building **real-world projects**.
+🚀 I love learning by building **real-world projects** and experimenting with new ideas.
 
 </td>
 
@@ -65,11 +65,12 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies & Frameworks
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ### 🧠 AI, ML & Data Science
@@ -82,6 +83,12 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
 ### 📚 Computer Science
 
 <p>
@@ -91,7 +98,7 @@
 <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -101,23 +108,39 @@
 
 ---
 
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
 ## 🌱 Currently Learning
 
 🐍 Python Development
 🧠 Data Structures & Algorithms
+📊 Data Science
 🤖 Machine Learning
 🧬 Deep Learning
 💬 Natural Language Processing (NLP)
-🌐 Web Development
-☕ Core Java
+🌐 Web Development with Flask
 🗄️ Database Management Systems
 
 🚀 **Learning by building, experimenting, and solving real-world problems.**
 
-<!-- ======================= GITHUB ======================= -->
+---
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
 
 ## 📈 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+<a href="https://github.com/nanjundachitra100-del">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>

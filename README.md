@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chitrashree</h1>
 
 <h3 align="center">
-🎓 CSIT Student at REVA University &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🤖 ML Enthusiast
+🎓 CSIT Student at REVA University &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🤖 AI & ML Enthusiast
 </h3>
 
 <p align="center">
@@ -25,9 +25,11 @@
 
 💻 I enjoy building projects, solving programming problems, and learning new technologies.
 
-🤖 I'm interested in **Artificial Intelligence, Machine Learning, and Software Development**.
+🤖 I'm interested in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**.
 
-🚀 Currently, I'm focused on improving my programming skills and building **real-world projects**.
+📊 My goal is to grow as a **Data Scientist** and build intelligent, real-world solutions.
+
+🚀 Currently, I'm focused on improving my programming skills, exploring AI, and building **real-world projects**.
 
 </td>
 
@@ -70,10 +72,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🧠 AI & Data
+### 🧠 AI, ML & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
@@ -102,11 +106,13 @@
 🐍 Python Development
 🧠 Data Structures & Algorithms
 🤖 Machine Learning
+🧬 Deep Learning
+💬 Natural Language Processing (NLP)
 🌐 Web Development
 ☕ Core Java
 🗄️ Database Management Systems
 
-🚀 **Building projects and learning by doing.**
+🚀 **Learning by building, experimenting, and solving real-world problems.**
 
 <!-- ======================= GITHUB ======================= -->
 

@@ -106,24 +106,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
-
-<!-- ======================= CURRENTLY LEARNING ======================= -->
-
-## 🌱 Currently Learning
-
-🐍 Python Development
-🧠 Data Structures & Algorithms
-📊 Data Science
-🤖 Machine Learning
-🧬 Deep Learning
-💬 Natural Language Processing (NLP)
-🌐 Web Development with Flask
-🗄️ Database Management Systems
-
-🚀 **Learning by building, experimenting, and solving real-world problems.**
-
----
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 

@@ -51,8 +51,7 @@
 **Computer Science & Information Technology (CSIT)**
 📍 Bengaluru, India
 
-## Experience
-**IDC(core tech member)
+## 👉Experience : IDC(core tech member)
 ---
 
 <!-- ======================= TECHNOLOGIES ======================= -->

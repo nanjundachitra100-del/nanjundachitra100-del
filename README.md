@@ -52,7 +52,7 @@
 📍 Bengaluru, India
 
 ## Experience
-IDC(core tech member)
+**IDC(core tech member)
 ---
 
 <!-- ======================= TECHNOLOGIES ======================= -->

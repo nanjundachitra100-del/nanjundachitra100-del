@@ -175,17 +175,8 @@ A collection of my **Machine Learning and Python learning work**, including data
 💻 **GitHub:**  
 https://github.com/nanjundachitra100-del/python-programming_udemy
 
----
 
-<!-- ======================= GITHUB ACTIVITY ======================= -->
 
-## 📈 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nanjundachitra100-del&theme=github-compact&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 <!-- ======================= CONNECT ======================= -->
 

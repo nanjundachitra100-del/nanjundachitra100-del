@@ -180,7 +180,7 @@ https://github.com/nanjundachitra100-del/python-programming_udemy
 
 <!-- ======================= CONNECT ======================= -->
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
 <a href="https://github.com/nanjundachitra100-del">

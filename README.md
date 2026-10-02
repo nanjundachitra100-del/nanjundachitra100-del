@@ -1,6 +1,6 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Chitrashree</h1>
+<h1 align="center"> I'm Chitrashree</h1>
 
 <h3 align="center">
 🎓 CSIT Student at REVA University &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🤖 AI & ML Enthusiast

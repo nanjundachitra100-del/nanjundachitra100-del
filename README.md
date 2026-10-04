@@ -64,7 +64,7 @@
 **Core Tech Member** 🚀
 
 ### **VERTEX**
-** Tech Coordinator** 🚀
+**Tech Coordinator** 🚀
 
 ---
 

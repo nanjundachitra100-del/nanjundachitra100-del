@@ -17,7 +17,7 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="70%">
 
 ### Hello! I'm **Chitrashree** 👋
 

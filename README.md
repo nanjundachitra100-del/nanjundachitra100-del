@@ -113,6 +113,13 @@
 <img src="https://img.shields.io/badge/Problem%20Solving-FF8C00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 </p>
+<!-- ======================= OPEN SOURCE ======================= -->
+
+## 🌍 Open Source Contributions
+
+- Contributing to open-source projects through GitHub.
+- Working on code improvements, dependency management, bug fixes, and project maintenance.
+- Collaborating with developers and learning industry-standard development practices.
 
 ### 🔧 Tools & Platforms
 

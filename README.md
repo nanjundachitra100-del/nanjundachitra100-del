@@ -100,23 +100,6 @@ B.Tech – Computer Science & Information Technology (CSIT)
 - Database Management Systems
 - Problem Solving
 
----
-
-## 🌍 Open Source Contributions
-
-I'm actively exploring open-source development and contributing to collaborative projects through GitHub.
-
-**Current focus:**
-- Contributing to Layer5 / Meshery.
-- Working on assigned issues and submitting pull requests.
-- Improving code quality and project accessibility.
-- Understanding large codebases and developer workflows.
-- Collaborating with maintainers and the open-source community.
-
-I believe open source is one of the best ways to learn software engineering through real-world development.
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. 🤖 Customer Churn Prediction

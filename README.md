@@ -1,7 +1,5 @@
 <!-- ======================= HEADER ======================= -->
 
-<h1 align="center">Hi 👋, I'm Chitrashree Gowda</h1>
-
 <h3 align="center">
 CSIT Student | Developer | AI & ML Enthusiast | Open Source Contributor
 </h3>
